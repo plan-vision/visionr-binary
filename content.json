@@ -1,0 +1,12 @@
+[	
+	{
+		"platform" : "win32",
+		"arch" : "x64",
+		"file" : "jre1.8.0_112-libreoffice5.2.2-win64.zip",
+		"url"  : "",
+		"versions" : {
+			"jre" : "1.8.8_112",
+			"libreOffice" : "5.2.2" 
+		}
+	}
+]
