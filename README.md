@@ -3,7 +3,7 @@ Predefined binaries of the requirements for running visionr-server
 Binaries are platform dependent and are installed from the visionr-server node installation script 
 
 - JRE 
-- LibreOffice
+- LibreOffice 
 
 Supported platforms are listen in content.json 
 
