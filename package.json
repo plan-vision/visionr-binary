@@ -1,12 +1,10 @@
 {
   "name": "visionr-binary",
-  "version": "1.0.0-2",
+  "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Plan-Vision",
   "license": "ISC",
   "description": "OS dependent binaries required to run visionr-server",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
