@@ -29,7 +29,7 @@ module.exports= {
 	[
 		{
 			"file" : "server-6.1.4-all.zip",
-			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/1.0.0/server-6.1.4-all.zip",
+			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/1.0.0/server-61005-all.zip",
 			"version" : "6.1.4"
 		}
 	],
