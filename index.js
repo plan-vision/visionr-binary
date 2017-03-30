@@ -28,9 +28,9 @@ module.exports= {
 	"server" : 
 	[
 		{
-			"file" : "server-61005-all.zip",
-			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/1.0.0/server-61005-all.zip",
-			"version" : "6.1.4"
+			"file" : "server-170330-all.zip",
+			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/1.0.0/server-170330-all.zip",
+			"version" : "6.1.7"
 		}
 	],
 	"import" : [
