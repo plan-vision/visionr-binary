@@ -28,8 +28,8 @@ module.exports= {
 	"server" : 
 	[
 		{
-			"file" : "server-170511-all.zip",
-			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/6.2.9/server-170511-all.zip",
+			"file" : "server-170512-all.zip",
+			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/6.2.9/server-170512-all.zip",
 			"version" : "6.2.9"
 		}
 	],
