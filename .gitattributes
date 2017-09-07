@@ -26,3 +26,5 @@
 *.tft binary
 *.gif binary
 *.zip binary
+*.jar binary
+*.tgz binary
