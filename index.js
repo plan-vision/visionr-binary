@@ -1,4 +1,4 @@
-module.exports= {
+module.exports = {
 	"jre" : [	
 		{
 			"platform" : "win32",
@@ -23,18 +23,5 @@ module.exports= {
 			"version" : "5.2.2" 
 		}
 		
-	],
-	"server" : 
-	[
-		{
-			"file" : "server-171002-all.zip",
-			"url"  : "https://github.com/plan-vision/visionr-binary/releases/download/6.8.2/server-171002-all.zip",
-			"version" : "6.8.2"
-		}
-	],
-	"import" : [
-		"modules",
-		"full",
-		"ui",
-    ]
+	]
 };
