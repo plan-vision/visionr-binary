@@ -17,10 +17,10 @@ module.exports = {
 	],
 	"libreoffice" : [	
 		{
-			"platform" : "win32",
-			"file" : "libreoffice-6.0.2-win.zip",
-			"url"  : "https://github.com/plan-vision/visionr-requirements/releases/download/7/libreoffice-6.0.2-win.zip",
-			"version" : "6.0.2" 
+			"platform" : "win64",
+			"file" : "libreoffice-7.0.3-win64.zip",
+			"url"  : "https://github.com/plan-vision/visionr-requirements/releases/download/7/libreoffice-7.0.3-win64.zip",
+			"version" : "7.0.3" 
 		}
 		
 	]
