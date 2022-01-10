@@ -43,7 +43,12 @@ function installJREBin(onDone,root) {
 		tname = homedir + "/" + found.file;
 	}
 	bindownload(found.url, found.file, tname, homedir, function() {
-		onDone(homedir + "/jre");
+		/* since version 17 direct openjdk download and no different jre distribution */
+		setTimeout(function(){
+			if (found.version >= "17.") 
+				fs.renameSync(homedir + "/jdk-"+found.version, homedir + "/jre");
+			onDone(homedir + "/jre");
+		},0); // wait file close
 	});
 }
 
