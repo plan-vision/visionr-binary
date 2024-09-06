@@ -3,9 +3,9 @@ module.exports = {
 			{
 			"platform" : "win32",
 			"arch" : "x64",
-			"file" : "openjdk-22.0.2_windows-x64_bin.zip",
-			"url"  : "https://download.java.net/java/GA/jdk22.0.2/c9ecb94cd31b495da20a27d4581645e8/9/GPL/openjdk-22.0.2_windows-x64_bin.zip",
-			"version" : "22.0.2"
+			"file" : "openjdk-17.0.1_windows-x64_bin.zip",
+			"url"  : "https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_windows-x64_bin.zip",
+			"version" : "17.0.1"
 		}
 	],
 	"libreoffice" : [	
